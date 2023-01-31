@@ -26,6 +26,8 @@ struct ExampleInputView: View {
     // MARK: Stored properties
     @State var inputGiven = ""
     
+    
+    
     // MARK: Computed properties
     var body: some View {
         
